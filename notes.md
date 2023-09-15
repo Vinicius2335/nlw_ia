@@ -24,12 +24,14 @@
 - adicionando o primeiro componente do shadcn-ui
   - ``pnpm dlx shadcn-ui@latest add button``
   - ele traz o componente para a pasta components/ui/button
-- ``pnpm i lucide-react``
 - ``pnpm dlx shadcn-ui@latest add separator``
 - ``pnpm dlx shadcn-ui@latest add textarea``
 - ``pnpm dlx shadcn-ui@latest add label``
 - ``pnpm dlx shadcn-ui@latest add select``
 - ``pnpm dlx shadcn-ui@latest add slider``
+- ``pnpm install @ffmpeg/ffmpeg @ffmpeg/util`` -> converte video para audio
+- ``pnpm i axios``
+- ``pnpm i ai``
 
 # Bug
 ````
@@ -60,7 +62,7 @@ Progress: resolved 63, reused 62, downloaded 0, added 0
 ````
 Solução: criar o componente manualmente
 
-# Back
+# Server
 - ``pnpm init``
 - ``pnpm i typescript @types/node tsx -D``
 - ``pnpm i fastify``
@@ -73,6 +75,8 @@ Solução: criar o componente manualmente
 - ``pnpm i openai``
 - ``pnpm i dotenv -D`` -> para o uso de variaveis de ambiente
 - ``pnpm i fastify/cors``
+- ``pnpm i ai`` -> ajuda a retornar a resposta da inteligencia artificial aos poucos, em vez de tudo de uma vez.
+- ``pnpm prisma db seed``
 
 
 # Serviços para upload de arquivos
