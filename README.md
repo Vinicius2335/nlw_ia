@@ -7,12 +7,12 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <br>
 
-<img alt="Home do Habit" src=".github/nlw-ia.png" width="100%" />
+<img alt="Home do Habit" src="./github/nlw-ia.png" width="100%" />
 
 
 ## 🚀 Tecnologias
